@@ -1,9 +1,4 @@
-/**
- * integrating mediasoup server with a node.js application
- */
 
-/* Please follow mediasoup installation requirements */
-/* https://mediasoup.org/documentation/v3/mediasoup/installation/ */
 import express from "express";
 const app = express();
 
